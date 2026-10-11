@@ -1,0 +1,1 @@
+Save your own Wireshark capture here after reviewing it for sensitive information. Suggested filename: `task5_capture.pcapng`. No fabricated capture is included.
