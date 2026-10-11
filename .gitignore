@@ -1,7 +1,6 @@
-__pycache__/
-.DS_Store
-# Keep real packet captures local until reviewed for sensitive information.
 captures/*
 !captures/README.md
+!captures/task5_capture.pcapng
 screenshots/*
 !screenshots/README.md
+!screenshots/*.png
